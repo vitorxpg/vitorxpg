@@ -12,11 +12,9 @@
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em computação em nuvem e desenvolvimento WEB mas, busco estudar sobre Engenharia de Software.
 
+<br><br><br><br>
+"Invencivel é só uma palavra e nada além disso🍃"
 
-
-**"Invencivel é só uma palavra e nada além disso🍃"
-
-<br><br><br><br><br>
 
 ---
 
@@ -33,6 +31,6 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
-  <img src="">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
 </p>
