@@ -10,13 +10,16 @@
 
 <img align="right" height="220" src="https://i.pinimg.com/originals/0f/5f/8a/0f5f8a4b465b11c121875310d5620167.gif">
 
-Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em computação em nuvem e desenvolvimento WEB mas, busco estudar sobre Engenharia de Software.
+Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em computação em nuvem. Também busco estudar sobre Engenharia de Software.
 
 <br><br><br><br><br>
 "Invencivel é só uma palavra e nada além disso🍃"
 
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats">
+</p>
 
 ## Tech Stack
 
@@ -59,12 +62,20 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 - Infraestrutura em nuvem utilizando AWS e Azure (Aether Cloud)
 - Infraestrutura de Redes no Packet Tracer (Rede SãoCaetano)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats">
-</p>
+
 
 ## Conecte-se comigo! 📬
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-santosxpg/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </p>
+
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br>
+  <div>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=vitorxpg&color=blueviolet">
+  </div>
+</h4>
