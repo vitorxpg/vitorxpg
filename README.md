@@ -18,7 +18,7 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=taiga&hide_border=true)](https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=taiga&hide_border=true&background=000000)](https://git.io/streak-stats">
 </p>
 
 ## Tech Stack
