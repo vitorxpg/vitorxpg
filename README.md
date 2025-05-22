@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&duration=2500&pause=2500&color=FFFAFA&background=2F4F4F&center=true&vCenter=true&width=435&lines=%7C+Cloud+Engineer+%7C+Network+Analyst+%7C+">
 </p>
 
-## Sobre mim 👻
+## Sobre mim 
 
 <img align="right" height="220" src="https://i.pinimg.com/originals/0f/5f/8a/0f5f8a4b465b11c121875310d5620167.gif">
 
@@ -34,3 +34,10 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
 </p>
+
+## Certificações 
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/Cisco_NetAcademy_Introduction_To_Networks-t?style=flat&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2F54831a43-45f5-48af-8fc9-cc9caa26a80c) | Cisco NetAcademy Introduction to Networks |
+| ![AWS_CF](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2Fadeb8763-784c-4c94-86af-4efc7f2a6909) | AWS Academy Cloud Foundations |
+| ![SENAI_AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&logoColor=white&labelColor=%23FF0000&color=white) | SENAI Azure Fundamentals 900 |
