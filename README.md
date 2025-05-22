@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&duration=2500&pause=2500&color=2F4F4F&background=FFFAFA00&center=true&vCenter=true&width=435&lines=%7C+Cloud+Engineer+%7C+Network+Analyst+%7C)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&duration=2500&pause=2500&color=FFFAFA&background=2F4F4F&center=true&vCenter=true&width=435&lines=%7C+Cloud+Engineer+%7C+Network+Analyst+%7C+">
 </p>
 
 ## Sobre mim 👻
@@ -23,7 +23,7 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,cpp,debian,git,gmail,grafana,linux,nginx,powershell,ubuntu,windows,discord,github">
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,cpp,debian,git,gmail,grafana,linux,nginx,powershell,ubuntu,windows,discord,github,ai,linkedin,notion,vscode">
 </p>
 
 <p align="center">
@@ -32,5 +32,7 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
-  
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+  <img src="">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 </p>
