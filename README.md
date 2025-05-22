@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=2F4F4FFF&text=Vitor%20Santos🍃&fontColor=FFFAFA">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4682B4&text=Vitor%20Santos⛹🏽‍♂️&fontColor=FFFAFA">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&duration=2500&pause=2500&color=FFFAFA&background=2F4F4F&center=true&vCenter=true&width=435&lines=%7C+Cloud+Engineer+%7C+Network+Analyst+%7C+">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&duration=2500&pause=2500&color=FFFFFF&background=4682B4&center=true&vCenter=true&width=435&lines=%7C+Cloud+Engineer+%7C+Network+Analyst+%7C">
 </p>
 
 ## Sobre mim 
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/0f/5f/8a/0f5f8a4b465b11c121875310d5620167.gif">
+<img align="right" height="220" src="https://i.pinimg.com/originals/b3/45/55/b345555d2c00c427961e52ba5d42512e.gif">
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em computação em nuvem. Também busco estudar sobre Engenharia de Software.
 
@@ -18,7 +18,7 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=taiga&hide_border=true)](https://git.io/streak-stats">
 </p>
 
 ## Tech Stack
