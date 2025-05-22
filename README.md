@@ -8,7 +8,7 @@
 
 ## Sobre mim 👻
 
-<img align="right" height="190" src="https://i.pinimg.com/originals/ab/28/55/ab2855a736ac455469d41fdcbff9a937.gif">
+<img align="right" height="220" src="https://i.pinimg.com/originals/0f/5f/8a/0f5f8a4b465b11c121875310d5620167.gif">
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em computação em nuvem e desenvolvimento WEB mas, busco estudar sobre Engenharia de Software.
 
