@@ -12,7 +12,7 @@
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em computação em nuvem e desenvolvimento WEB mas, busco estudar sobre Engenharia de Software.
 
-<br><br><br><br>
+<br><br><br><br><br>
 "Invencivel é só uma palavra e nada além disso🍃"
 
 
