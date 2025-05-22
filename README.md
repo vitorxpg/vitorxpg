@@ -62,4 +62,9 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats">
 </p>
-  
+
+## Conecte-se comigo! 📬
+
+<p align="center">
+  <a href="www.linkedin.com/in/vitor-santosxpg"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
