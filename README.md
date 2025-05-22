@@ -41,3 +41,25 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 | ![CCNA ITN](https://img.shields.io/badge/Cisco_NetAcademy_Introduction_To_Networks-t?style=flat&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2F54831a43-45f5-48af-8fc9-cc9caa26a80c) | Cisco NetAcademy Introduction to Networks |
 | ![AWS_CF](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2Fadeb8763-784c-4c94-86af-4efc7f2a6909) | AWS Academy Cloud Foundations |
 | ![SENAI_AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&logoColor=white&labelColor=%23FF0000&color=white) | SENAI Azure Fundamentals 900 |
+
+---
+
+## Conquistas 🏆
+
+- Curso preparatório para AZ 900
+- Curso técnico de Redes
+- Curso preparatório para AI 900
+- Certificado Internacional: AI 900
+- Casa IOT
+
+## Projetos 
+
+- Casa inteligente voltada para aos PCDs (grupo SmartHome)
+- Monitoramento On-premises com o uso de Zabbix & Grafana (AlertFlow)
+- Infraestrutura em nuvem utilizando AWS e Azure (Aether Cloud)
+- Infraestrutura de Redes no Packet Tracer (Rede SãoCaetano)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorxpg&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats">
+</p>
+  
