@@ -68,6 +68,7 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI, com foco em comp
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-santosxpg/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+  <a href="https://www.instagram.com/_vitorssx/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 </p>
 
 
